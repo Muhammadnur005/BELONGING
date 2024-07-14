@@ -1,0 +1,238 @@
+*{
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+}
+body{
+      width: 1200px;
+      height: 1440px;
+     background-image: url(./1671311230531.jpg);
+     background-repeat: no-repeat;
+     background-size: cover;
+     background-attachment: fixed;
+   
+}
+.blok1{
+      background-color: white;
+      margin-left: 300px;
+      position: absolute;
+      width: 200px;
+      height: 320px;
+      border-radius: 20px;
+      text-align: center;
+}
+.blok1 h4{
+      font-size: 20px;
+     
+}
+.blok1 i{
+      font-size: 150px;
+}
+.blok1 i:hover{
+      transition: all 0.5s;
+      transform: rotateY(360deg);
+      color:turquoise;
+}
+
+.blok7{
+      background-color: white;
+      margin-top: 60px;
+      margin-left: 550px;
+      width: 200px;
+      height: 320px;
+      border-radius: 20px;
+      text-align: center;
+}
+.blok7 h3{
+      font-size: 20px;
+      /* color:red; */
+}
+.blok7 i{
+      font-size: 140px;
+}
+.blok7 i:hover{
+      transition: all 0.5s;
+      transform:translateY(-10px);
+      color: blue;
+} 
+
+
+.blok4{
+      background-color: white;
+      margin-top: -320px;
+      margin-left: 800px;
+      width: 200px;
+      height: 320px;
+      border-radius: 20px;
+      text-align: center;
+}
+.blok4 h1{
+      font-size: 50px;
+      /* color:blue; */
+}
+.blok4 i{
+      font-size: 140px;
+
+}
+.blok4 h2{
+      font-size: 30px;
+}
+.blok4 i:hover{
+      transition: all 0.5s;
+      transform: rotate(360deg);
+      color: goldenrod;
+}
+
+
+
+
+
+
+.blok5{
+      background-color: white;
+      margin-top: -320px;
+      margin-left: 1050px;
+      width: 200px;
+      height: 320px;
+      border-radius: 20px;
+      text-align: center;
+}
+.blok5 h3{
+      font-size: 15px;
+      
+}
+.blok5 p{
+      text-align: center;
+}
+.blok5 i{
+      font-size: 150px;
+
+}
+.blok5 h2{
+      font-size: 30px;
+}
+.blok5 i:hover{
+      transition: all 0.5s;
+      transform: rotate(-360deg);
+      color: darkblue;
+}
+
+.blok3{
+      margin-left: 200px;
+      color:white;
+      margin-top: 110px;
+      background-color:black;
+      width: 700px;
+      height: 600px;
+}
+.regist h1{
+      margin-left: 200px;
+      color: white;
+}
+.blok3 h1{
+      margin-left: 200px;
+}
+.blok3 h2{
+      margin-left: 50px;
+}
+.blok3 p{
+      margin-left: 20px;
+}
+.blok3 .we{
+      margin-top: -50px;
+      margin-left: 400px;
+}
+.blok3 .sa{
+     margin-top: 50px;
+
+}
+#ga{
+      padding-top: -100px;
+      margin-left: 400px;
+}
+
+
+
+.blok3 input{
+      margin-left: 20px;
+      background-color: black;
+      width: 300px;
+      border: none;
+      border-bottom: 2px solid white;
+      border-color: none;
+}
+.blok3 textarea{
+      background-color: black;
+      width: 550px;
+      margin-left: 20px;
+      border: none;
+      border-bottom: 2px solid white;
+}
+.blok3 button{
+      margin-left: 20px;
+      color: black;
+      width: 550px;
+      height: 40px;
+      border: none;
+      background-color:white;
+      
+}
+.blok3 button:hover{
+      /* box-shadow: 15px 15px 15px aquamarine; */
+      background-color: aqua;
+      color:black;
+
+}
+
+iframe{
+      box-shadow: 15px 15px 15px chartreuse;
+      margin-top: -850px;
+      margin-left: 800px;
+      
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.map{
+      
+      margin: 400px;
+      margin-top: -600px;
+      margin-left: 900px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
